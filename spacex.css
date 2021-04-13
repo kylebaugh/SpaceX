@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.body{
+    margin: 0px;
+}
+
+.topBackground{
+    width: 100%;
+    height: 90vh;
+}
+
+.topSection1{
+    box-sizing: border-box;
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.icon{
+    height: 40px;
+    width: 15%;
+    padding-left: 20px;
+    font-size: 30px; color: white;
+    position: relative;
+
+}
+
+.pages{
+    width: 55%;
+    height: 100px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.falcon9{
+    padding-top: 30px; color:white; padding-right: 5px;
+}
+
+.falconHeavy{
+    padding-top: 30px; color:white; padding-right: 5px;
+}
+
+.dragon{
+    padding-top: 30px; color:white; padding-right: 5px;
+}
+
+.starship{
+    padding-top: 30px; color:white; padding-right: 5px;
+}
+
+.humanSpaceflight{
+    padding-top: 30px; color:white; padding-right: 5px;
+}
+
+.rideshare{
+    padding-top: 30px; color:white; padding-right: 5px;
+}
+
+.menu{
+    height: 40px;
+    width: 10%;
+    position: relative;
+        /* left: 50px; */
+    display: flex;
+    flex-direction: row;
+}
+.shop{
+    color: white;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+.threeLines{
+    margin-top: 30px;
+}
+
+
+#topSection2{
+    width: 50vw;
+    height: 50vh;
+    position: relative;
+        left: 125vh;
+        bottom: 50px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.t2Top{
+    color: white;
+}
+
+.t2Middle{
+    font-size: 32px; color: white;
+
+}
+
+.replayButton{
+    height: 60px;
+    width: 150px;
+    font-size: 24px; color: white;
+    border-style: solid; color:white;
+    
+}
